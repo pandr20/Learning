@@ -1,197 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69a7f82e-8f87-4fc5-afe0-495d0b37b128" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/20200722_213914-01.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Abstraction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Abstraction/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Abstraction/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AnimalList/AnimalTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AnimalList/MyAnimalList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ArrayList/TestArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ArrayOfObjects/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ArrayOfObjects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/AnalyzeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/ArrayExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/ArrayListToD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/ArrayToD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/GradeExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/MonthArrayExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/TestCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arrays/arrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Audio/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BeatBoxer/MiniMiniMusicApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BeatBoxer/MiniMusicCmdLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BeatBoxer/MusicTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Calender/PrintCalender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CatSize/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CatSize/CatTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CatSize/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ChineseZodiacSign/ChineseZodiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CodeWars/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Constructor/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Constructor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Database/DatabaseMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DogArray/MyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Draw/stdDraw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DuckConstructor/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DuckConstructor/UseDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DynamicPolymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DynamicPolymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DynamicPolymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DynamicPolymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exeptionhandling/InputMismatchExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exeptionhandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exeptionhandling/QuotiientWithException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exeptionhandling/TestCircleWithCustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileClass/TestFileClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileReader/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileReader/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileReader/ReadFileFromURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileReader/TextFileInputDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileReader/TextFileInputDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileReader/TextInputStreamExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileReader/WebCrawler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileWritter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileWritter/TextFIleExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileWritter/TextFileOutputDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileWritter/TextStreamExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileWritter/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FileWritter/WriteDataWithAutoClose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Final/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FirstObject/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FirstObject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ForEeach/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ForEeach/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/MyDrawPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/Paint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/PaintTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/SimpleAnimation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/SimpleGui1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/SimpleGui1B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GUI/SimpleGui3c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GuessNumber/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GuessingGame/GameLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GuessingGame/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GuessingGame/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GuiName/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GuitarGetterAndSetters/ElectricGuitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Inheritance/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Inheritance/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Inheritance/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Interface/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Interface/Hawk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Interface/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Interface/Prey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Interface/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Labels/Jframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Labels/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Lights - Patrick Patrikios.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/LinkedListDataStructure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Lottery/Lottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MethodOver/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MethodOver/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MethodOver/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Methods/GreatestCommonDivisorMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Methods/OverLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Methods/PrimeNumberMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Methods/TestMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Methods/TestReturnGradeMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Methods/TestVoidMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Methods/mainReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Mood/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Mood/MoodLevels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Mood/Personality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Mood/You.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MovieObjects/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MovieObjects/MovieTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MultiThread/MultiThreadExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MultiThread/MyMultipleThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MultiThread/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/OOP/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ObjectPassing/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ObjectPassing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ObjectPassing/MotorCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Objects/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Objects/TestTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/OverloadingConstructors/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/OverloadingConstructors/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PdfConverter/PdfToDoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Polymorphism/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Polymorphism/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Polymorphism/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Polymorphism/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PrintF/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Programming.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ProjectDevelopment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/QueuesDataStructure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/RepeatAdditionQuiz/RepeatAdditionQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SimpleDotComGame/DotCom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SimpleDotComGame/DotComBust.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SimpleDotComGame/GameHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/StackDataStructure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Static/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Static/DuckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/StaticKeyword/Friend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/StaticKeyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/StringBuilder/PalindromeIgnoreNonAlphanumeric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/StringMethods/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Super/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Super/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Super/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Threads/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Threads/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Threads/ThreadExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Timer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ToString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ToString/Ride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/VariableScope/DiceRoller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/VariableScope/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/WhileLoopsExercise/WhileLoopExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/WordList/PhraseExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/acessModifiers/Package1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/acessModifiers/Package1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/acessModifiers/Package2/Asub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/acessModifiers/Package2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/art.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/cityAlphabetic/OrderTwoCities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyObjects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyObjects/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dobedo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dobedo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/emailapp/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/emailapp/EmailApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encapsulation/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ifStatement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nestedLoop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/poem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sam.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/textAdventureGame/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="69a7f82e-8f87-4fc5-afe0-495d0b37b128" name="Changes" comment="New exercises">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +24,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -221,8 +37,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628578949854</updated>
-      <workItem from="1628578952374" duration="523000" />
+      <workItem from="1628578952374" duration="1863000" />
     </task>
+    <task id="LOCAL-00001" summary="New exercises">
+      <created>1628579503673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628579503673</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New exercises">
+      <created>1628579679341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628579679341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="New exercises" />
   </component>
 </project>
